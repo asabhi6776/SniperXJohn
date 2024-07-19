@@ -3,6 +3,18 @@
   "displayName": "SniperXJohn",
   "description": "My Themepack",
   "version": "0.0.1",
+  "publisher": "asabhi6776",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asabhi6776/sniperxjohn"
+  },
+  "keywords": [
+    "theme",
+    "sniperxjohn",
+    "sniperxjohn-color-theme",
+    "sniperxjohn-color-theme-vscode",
+    "asabhi-custom"
+  ],
   "engines": {
     "vscode": "^1.91.0"
   },

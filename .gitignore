@@ -1,4 +1,4 @@
 node_modules
 *.vsix
 test.yaml
-notes.txt
+notes.*

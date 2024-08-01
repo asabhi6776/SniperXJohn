@@ -11,9 +11,9 @@
 		"badge.background": "#44444430",
 		"badge.foreground": "#1FF3FF",
 		"breadcrumb.activeSelectionForeground": "#1FF3FF",
-		"breadcrumb.background": "#444444",
-		"breadcrumb.focusForeground": "#3AFF6C",
-		"breadcrumb.foreground": "#5ACFFF",
+		"breadcrumb.background": "#282a29",
+		"breadcrumb.focusForeground": "#ffffff",
+		"breadcrumb.foreground": "#74797b",
 		"breadcrumbPicker.background": "#444444",
 		"button.background": "#1FF3FF50",
 		"contrastBorder": "#1FF3FF40",
@@ -27,7 +27,7 @@
 		"editor.findMatchBorder": "#1FF3FF",
 		"editor.findMatchHighlightBackground": "#1FF3FF93",
 		"editor.findMatchHighlightBorder": "#FF2B6530",
-		"editor.foreground": "#3AFF6C",
+		"editor.foreground": "#7ed4d6",
 		"editor.lineHighlightBackground": "#44444450",
 		"editor.selectionBackground": "#FF245A30",
 		"editor.selectionHighlightBackground": "#1FF3FF6b",
@@ -72,34 +72,38 @@
 		"focusBorder": "#FF2B6500",
 		"gitDecoration.conflictingResourceForeground": "#FFD5FA",
 		"gitDecoration.deletedResourceForeground": "#000000",
-		"gitDecoration.ignoredResourceForeground": "#1FF3FF",
+		"gitDecoration.ignoredResourceForeground": "#6f7475",
 		"gitDecoration.modifiedResourceForeground": "#5ACFFF",
 		"gitDecoration.untrackedResourceForeground": "#FF245A",
-		"input.background": "#6F6F6F",
-		"input.border": "#FF2B6510",
-		"input.foreground": "#3AFF6C",
-		"input.placeholderForeground": "#3AFF6C60",
+    "gitDecoration.addedResourceForeground": "#4bf3c8",
+    "gitDecoration.stageDeletedResourceForeground": "#c74e39",
+    "gitDecoration.stageModifiedResourceForeground": "#ffd493",
+    "gitDecoration.submoduleResourceForeground": "#54b9ff",
+		"input.background": "#3b3939",
+		"input.border": "#60efe5ee",
+		"input.foreground": "#ffffff",
+		"input.placeholderForeground": "#c0d6d560",
 		"inputOption.activeBackground": "#3AFF6C30",
 		"inputOption.activeBorder": "#3AFF6C30",
 		"inputValidation.errorBorder": "#00000050",
 		"inputValidation.infoBorder": "#FF245A50",
 		"inputValidation.warningBorder": "#FFD5FA50",
-		"list.activeSelectionBackground": "#444444",
-		"list.activeSelectionForeground": "#1FF3FF",
+		"list.activeSelectionBackground": "#2d4860",
+		"list.activeSelectionForeground": "#ffffff",
 		"list.focusBackground": "#6F6F6F",
 		"list.focusForeground": "#FF245A",
 		"list.highlightForeground": "#4f8386",
-		"list.hoverBackground": "#ADADAD",
-		"list.hoverForeground": "#FF2B65",
-		"list.inactiveSelectionBackground": "#44444430",
-		"list.inactiveSelectionForeground": "#1FF3FF",
+    "list.hoverBackground": "#343841",
+    "list.hoverForeground": "#eef0f9",
+		"list.inactiveSelectionBackground": "#17191e",
+		"list.inactiveSelectionForeground": "#eef0f9",
 		"list.warningForeground": "#FFD5FA",
 		"listFilterWidget.background": "#44444430",
 		"listFilterWidget.noMatchesOutline": "#44444430",
 		"listFilterWidget.outline": "#44444430",
 		"menu.background": "#444444f8",
 		"menu.border": "#1FF3FF50",
-		"menu.foreground": "#3AFF6C",
+		"menu.foreground": "#3aFF6C",
 		"menu.selectionBackground": "#6F6F6F",
 		"menu.selectionBorder": "#44444430",
 		"menu.selectionForeground": "#3AFF6C",
@@ -137,7 +141,7 @@
 		"scrollbarSlider.activeBackground": "#1FF3FFcc",
 		"scrollbarSlider.background": "#1FF3FFbb",
 		"scrollbarSlider.hoverBackground": "#1FF3FFee",
-		"selection.background": "#1FF3FF",
+		"selection.background": "#00daef56",
 		"settings.checkboxBackground": "#444444",
 		"settings.checkboxForeground": "#3AFF6C",
 		"settings.dropdownBackground": "#444444",
@@ -154,7 +158,7 @@
 		"sideBarSectionHeader.background": "#444444",
 		"sideBarSectionHeader.border": "#44444460",
 		"sideBarSectionHeader.foreground": "#fbfbfb",
-		"sideBarTitle.foreground": "#3AFF6C",
+		"sideBarTitle.foreground": "#ffffff",
 		"statusBar.background": "#232423",
 		"statusBar.border": "#44444460",
 		"statusBar.debuggingBackground": "#FFD5FA",
@@ -164,18 +168,20 @@
 		"statusBarItem.hoverBackground": "#1FF3FF20",
 		"statusBarItem.remoteBackground": "#7ff7f7",
 		"statusBarItem.remoteForeground": "#050505",
-		"tab.activeBackground": "#0c491d50",
-		"tab.activeBorder": "#03f648",
-		"tab.activeForeground": "#FF2B65",
+		"tab.activeBackground": "#09090950",
+		"tab.activeBorderTop": "#eeefee",
+		"tab.activeForeground": "#f10343",
 		"tab.activeModifiedBorder": "#1FF3FF",
-		"tab.border": "#444444",
-		"tab.inactiveBackground": "#1FF3FF20",
-		"tab.inactiveForeground": "#3AFF6Caf",
+		"tab.inactiveBackground": "#55575720",
+		"tab.inactiveForeground": "#ffffffaf",
 		"tab.unfocusedActiveBorder": "#1FF3FF",
 		"tab.unfocusedActiveBackground": "#1FF3FF40",
 		"tab.unfocusedActiveForeground": "#3AFF6C",
 		"tab.unfocusedInactiveBackground": "#1FF3FF10",
 		"tab.unfocusedInactiveForeground": "#3AFF6C7f",
+    "tab.border": "#171c1e",
+    "tab.hoverBackground": "#343841",
+    "tab.hoverForeground": "#eef0f9",
 		"terminal.ansiBlack": "#202429",
 		"terminal.ansiBlue": "#0ca5e2",
 		"terminal.ansiBrightBlack": "#1FF3FF",
@@ -333,19 +339,7 @@
 				"fontStyle": "bold"
 			}
 		},
-		// {
-		// 	"scope": [
-		// 		"comment.line.scss",
-		// 		"comment.line.double-slash.js",
-		// 		"punctuation.definition.comment.scss",
-		// 		"punctuation.definition.comment.js",
-		// 		"punctuation.definition.comment.html",
-		// 		"comment.block.html"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#6D6F7C"
-		// 	}
-		// },
+
 		{
 			"name": "Comment Markup Link",
 			"scope": "comment markup.link",
@@ -447,7 +441,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#FF245A"
+				"foreground": "#3abeb1"
 			}
 		},
 		{
@@ -466,7 +460,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#3AFF6C"
+				"foreground": "#f7fbf8"
 			}
 		},
 		{
@@ -665,7 +659,7 @@
 				"support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#3AFF6C"
+				"foreground": "#e7f3ea"
 			}
 		},
 		{
@@ -674,7 +668,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#3AFF6C"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -700,6 +694,7 @@
 			],
 			"settings": {}
 		},
+
 		{
 			"scope": [
 				"markdown.heading",

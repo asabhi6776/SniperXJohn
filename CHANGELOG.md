@@ -1,6 +1,6 @@
 # Changelog
 
-## Release Notes for Version 1.1.0
+## Release Notes for Version 1.2.1
 
 ### Major Release Highlights
 

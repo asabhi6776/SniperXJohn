@@ -96,7 +96,7 @@
     "list.hoverForeground": "#eef0f9",
 		"list.inactiveSelectionBackground": "#17191e",
 		"list.inactiveSelectionForeground": "#eef0f9",
-		"list.warningForeground": "#FFD5FA",
+		"list.warningForeground": "#dcfb2d",
 		"listFilterWidget.background": "#44444430",
 		"listFilterWidget.noMatchesOutline": "#44444430",
 		"listFilterWidget.outline": "#44444430",

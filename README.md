@@ -4,6 +4,11 @@ Hi! I made this colour theme based on colour pallets which my eyes feels comfort
 
 # Preview
 
-![Sample](https://i.ibb.co/BVLpxWV/Screenshot-2024-08-02-at-1-45-59-PM.png)
+![Sample](assets/preview.png)
+
+
+## Insperation
+
+[Houston Theme](https://github.com/withastro/houston-vscode.git)
 
 **Thanks**

@@ -6,6 +6,11 @@ Hi! I made this colour theme based on colour pallets which my eyes feels comfort
 
 ![Sample](assets/preview.png)
 
+## Roadmap
+
+- Asthetic color scheme for Debug window.
+- Asthetic color scheme for Markdown preview.
+
 ## Insperation
 
 [Houston Theme](https://github.com/withastro/houston-vscode.git)
